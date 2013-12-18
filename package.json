@@ -1,0 +1,33 @@
+{
+  "name": "facebook-node",
+  "description": "Facebook API + Node.js",
+  "version": "0.0.1",
+  "author": "Marius Miliunas <mvmiliunas@gmail.com>",
+  "maintainers": [
+    "Marius Miliunas <mvmiliunas@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maruf89/facebook-node"
+  },
+  "keywords": [
+    "Facebook",
+    "API",
+    "node.js"
+  ],
+  "dependencies": {
+    "request": "2.x.x"
+  },
+  "main": "./index",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "bugs": {
+    "url": "https://github.com/maruf89/facebook-node/issues"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "license": "GPL2"
+}
